@@ -1,0 +1,2 @@
+rustc trait.rs
+./trait

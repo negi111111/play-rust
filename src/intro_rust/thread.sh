@@ -1,0 +1,2 @@
+rustc thread.rs
+./thread
